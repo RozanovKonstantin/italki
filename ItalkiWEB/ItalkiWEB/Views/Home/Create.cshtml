@@ -1,0 +1,23 @@
+﻿@model ItalkiWEB.Models.Teacher
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    <div> 
+        <h1>db info</h1>
+        <p>@ViewBag.num</p>
+        @foreach(var item in Model.TagsList)
+        {
+            @Html.DisplayFor(i=>item.TagName)<br />
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,94 @@
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\ApplicationInsights.config
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\ItalkiWEB.dll.config
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\ItalkiWEB.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\ItalkiWEB.pdb
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Antlr3.Runtime.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Dapper.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.Web.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Newtonsoft.Json.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.Helpers.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.Mvc.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.Optimization.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.Razor.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\WebGrease.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Dapper.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.Helpers.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.Mvc.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.Optimization.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.Razor.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Antlr3.Runtime.pdb
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Newtonsoft.Json.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.Web.xml
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\obj\Debug\ItalkiWEB.csprojResolveAssemblyReference.cache
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\obj\Debug\ItalkiWEB.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\obj\Debug\ItalkiWEB.dll
+C:\Users\Константин\source\repos\ItalkiWEB\ItalkiWEB\obj\Debug\ItalkiWEB.pdb
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\ApplicationInsights.config
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\ItalkiWEB.dll.config
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\ItalkiWEB.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\ItalkiWEB.pdb
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Antlr3.Runtime.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Dapper.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.DependencyCollector.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.Web.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.WindowsServer.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.ApplicationInsights.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.Web.Infrastructure.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Newtonsoft.Json.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.Helpers.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.Mvc.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.Optimization.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.Razor.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.Deployment.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.Razor.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\WebGrease.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Dapper.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.Helpers.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.Mvc.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.Optimization.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.Razor.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.Deployment.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Web.WebPages.Razor.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Antlr3.Runtime.pdb
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Newtonsoft.Json.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.ApplicationInsights.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.DependencyCollector.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.WindowsServer.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\Microsoft.AI.Web.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\obj\Debug\ItalkiWEB.csprojAssemblyReference.cache
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\obj\Debug\ItalkiWEB.csproj.CoreCompileInputs.cache
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\obj\Debug\ItalkiWEB.csproj.CopyComplete
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\obj\Debug\ItalkiWEB.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\obj\Debug\ItalkiWEB.pdb
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\PagedList.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\PagedList.Mvc.dll
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\PagedList.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\PagedList.Mvc.xml
+F:\Konstantin\Running Projects\ItalkiWEB\ItalkiWEB\bin\System.Linq.Dynamic.dll
