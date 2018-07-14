@@ -31,5 +31,6 @@ namespace ItalkiWEB.Models
         public int session_count { get; set; }
         public int max_price_usd { get; set; }
         public int max_price { get; set; }
+        public int M { get; set; }
     }
 }
